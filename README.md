@@ -20,7 +20,7 @@ Usage
 
 Clone the repository:
 
-git clone https://github.com/your-username/log-monitor.git
+git clone https://github.com/nkdkd/log-moniter-repo.git
 
 Navigate to the project directory:
 
